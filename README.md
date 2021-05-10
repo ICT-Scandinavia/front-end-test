@@ -9,14 +9,12 @@ The main objective of this challenge is to test your FE skills
 
 
 ## Rules
----
 * Your code should be made available in a **private** repository on your personal Github.
 * The test should not take more than 3 hours to complete. 
 * Ideally, you can deliver the challenge within one week. But if you need more time, let us know 😊
 
 
 ## Description
----
 You will implement the Page below. 
 
 <img src="src/assets/screen_a.png" width="800" />
@@ -35,7 +33,6 @@ It's important to point out that this is just a prototype and does not need to b
 
 
 ## About the "API"
----
 In order to save time, we provide a helpers file `src/helpers.js`. This file exposes 3 functions:
 
 1. **fetchCategories** returns `Promise<Category[]>`
@@ -60,7 +57,6 @@ type Countdown = {
 ```
 
 ## Instructions
----
 
 * Clone the repository
 * Install dependencies: `npm install`
