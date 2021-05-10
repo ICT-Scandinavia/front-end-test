@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App .. 1`] = `
+<div>
+  <h1>
+    ICT FE Test
+  </h1>
+  <br />
+  <img
+    src={Object {}}
+  />
+  <br />
+  <p>
+    Replace this with your code.. :)
+  </p>
+</div>
+`;
