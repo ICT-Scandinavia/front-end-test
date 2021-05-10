@@ -67,7 +67,7 @@ After finishing the Challenge you could provide repo access to:
 
 [@Front End ICT](https://github.com/orgs/ICT-Scandinavia/teams/front-end-ict)
 
-Then send an email to [dev@impactct.com](dev@impactct.com), with:
+Then send an email to <a href="mailto:dev@impactct.com">dev@impactct.com</a>, with:
 
 * Title: [ICT FE Test] Your name;
 * Repository link with your test.
