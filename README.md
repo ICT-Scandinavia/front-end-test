@@ -65,9 +65,9 @@ type Countdown = {
 
 After finishing the Challenge you could provide repo access to:
 
-@homanbromand
+[@Front End ICT](https://github.com/orgs/ICT-Scandinavia/teams/front-end-ict)
 
-Then send an email to homan.bromand@impactct.com, with:
+Then send an email to [dev@impactct.com](dev@impactct.com), with:
 
 * Title: [ICT FE Test] Your name;
 * Repository link with your test.
